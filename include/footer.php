@@ -1,24 +1,25 @@
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script> -->
 <style>
     .footer-section {
-        background: var(--tertiary-color);
-        color: var(--secondary-color);
+        background: var(--primary-color);
+        color: var(--tertiary-color);
         padding: 40px 0;
         font-size: 14px;
     }
 
     .footer-section h4 {
-        color: var(--secondary-color);
+        color: var(--tertiary-color);
         font-weight: bold;
         margin-bottom: 15px;
     }
 
     .footer-section p {
         line-height: 1.8;
-        color: var(--primary-color);
+        color: var(--tertiary-color);
     }
 
     .footer-section .contact-info a {
-        color: var(--primary-color);
+        color: var(--tertiary-color);
         text-decoration: none;
         font-weight: 600;
     }
@@ -31,7 +32,7 @@
 
     .footer-section .contact-info i {
         margin-right: 10px;
-        color: var(--primary-color);
+        color: var(--tertiary-color);
     }
 
     .footer-section .social-media-icons {
@@ -66,7 +67,7 @@
     }
 
     .footer-section .contact-info i {
-        color: var(--primary-color);
+        color: var(--tertiary-color);
         font-size: 25px;
     }
 
@@ -87,10 +88,10 @@
     }
 
     .social-media-icons i {
-        background: var(--secondary-color);
+        background: var(--tertiary-color);
         padding: 15px;
         border-radius: 15px;
-        color: var(--accent-color);
+        color: var(--primary-color);
     }
 
     .social-media-icons i:hover {

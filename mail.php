@@ -17,7 +17,7 @@ if (isset($send)) {
     $message = !empty($message) ? htmlspecialchars($message) : 'No message provided';
 
     // Prepare email details
-    $to = 'princesingh2632002@gmail.com';
+    $to = 'prince.genmish00@gmail.com';
     $subject = 'For Enquiry';
     $messageContent = "
         <html>
